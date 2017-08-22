@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.szl.spring_boot_starter_hello.autoconfig.HelloAutoConfig
